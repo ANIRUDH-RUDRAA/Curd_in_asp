@@ -119,6 +119,7 @@
     <Content Include="Content\bootstrap.rtl.min.css" />
     <Content Include="Content\Site.css" />
     <Content Include="CurdPage.aspx" />
+    <Content Include="CUrd_gpt_.aspx" />
     <Content Include="Default.aspx" />
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
@@ -206,6 +207,13 @@
     </Compile>
     <Compile Include="CurdPage.aspx.designer.cs">
       <DependentUpon>CurdPage.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CUrd_gpt_.aspx.cs">
+      <DependentUpon>CUrd_gpt_.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CUrd_gpt_.aspx.designer.cs">
+      <DependentUpon>CUrd_gpt_.aspx</DependentUpon>
     </Compile>
     <Compile Include="Default.aspx.cs">
       <DependentUpon>Default.aspx</DependentUpon>
